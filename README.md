@@ -6,6 +6,7 @@ An interactive Python-based quiz app with Tkinter GUI. It supports quizzes by su
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [License](#license)
 ## Introduction
 The Quiz Application is an interactive Python program designed to help users test their knowledge across multiple subjects and difficulty levels. With a user-friendly Tkinter GUI, it tracks performance, records results in an Excel file and provides detailed feedback. This project showcases a practical application of Python programming and GUI development.
@@ -47,5 +48,14 @@ To run the application, you need:
 4. Review Results:
    - After completing the quiz, enter your name to save the results.
    - Open the `quiz_progress.xlsx` file to view your performance and feedback.
+## Screenshots
+  1. Start Screen
+    - ![Start Screen](Start_screen.png)
+  2. During the Quiz
+    - ![Quiz in Progress](Quiz_inprogress.png)
+  3. Quiz Completion
+    - ![Quiz Results](End_ofQuiz.png)
+  4. Excel Sheet with Results
+    - ![Excel Results](Excel_QuizData.png)
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the software, and you are given proper attribution to the creator.
