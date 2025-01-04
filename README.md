@@ -48,14 +48,11 @@ To run the application, you need:
 4. Review Results:
    - After completing the quiz, enter your name to save the results.
    - Open the `quiz_progress.xlsx` file to view your performance and feedback.
+   - Open the Excel file under the name you put in the code, in this case, "quiz_progress," but it won't update if the file is open while the quiz runs. You can only view it after             you submit the results.
 ## Screenshots
-  1. Start Screen
-    - ![Start Screen](Start_screen.png)
-  2. During the Quiz
-    - ![Quiz in Progress](Quiz_inprogress.png)
-  3. Quiz Completion
-    - ![Quiz Results](End_ofQuiz.png)
-  4. Excel Sheet with Results
-    - ![Excel Results](Excel_QuizData.png)
+1. Start Screen -![Start Screen](Start_screen.png)
+2. During the Quiz -![Quiz in Progress](Quiz_inprogress.png)
+3. Quiz Completion -![Quiz Results](End_ofQuiz.png)
+4. Excel Sheet with Results -![Excel Results](Excel_QuizData.png)
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the software, and you are given proper attribution to the creator.
